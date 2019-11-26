@@ -1,4 +1,4 @@
-package com.ianmcnab.mytutorial;
+package com.ianmcnab;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
